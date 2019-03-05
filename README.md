@@ -1,6 +1,7 @@
 # Diagrammes du dossier de conception generale LejosProject
 
 Branche qui regroupe tous les diagrammes de ce rendu
+Outil pour designer : draw.io
 
 ## Convention de nommage des fichiers
 TYPEDIAGRAMME_description + snake_case
